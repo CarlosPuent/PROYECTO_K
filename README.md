@@ -197,11 +197,11 @@ Se realizaron pruebas exhaustivas de cada endpoint utilizando Postman para verif
     "code": "CATG0010",
     "name": "Lubricantes"
 }
+```
 Actualizar una Marca
 Endpoint: PUT /api/brands/{id}
 
-plaintext
-Copiar código
+```plaintext
 http://localhost:8080/api/brands/3
 Ejemplo de Cuerpo de Solicitud:
 
