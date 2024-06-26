@@ -109,8 +109,8 @@ Copiar código
     "supplier_id": 2,
     "details": [
         {
-            "name": "Serpiente",
-            "description": "Descripción para luces Serpiente",
+            "name": "Bujías",
+            "description": "Descripción para Bujías",
             "price": 150,
             "category_ids": [2],
             "brand_ids": [1, 2],
@@ -194,26 +194,22 @@ Se realizaron pruebas exhaustivas de cada endpoint utilizando Postman para verif
 **Ejemplo de Cuerpo de Solicitud:**
 ```json
 {
-    "code": "CATG0010",
     "name": "Lubricantes"
 }
 ```
-Actualizar una Marca
-Endpoint: PUT /api/brands/{id}
+**Actualizar una Marca:**
+**Endpoint:** PUT /api/brands/{codeBrand}
+**URL:** http://localhost:8080/api/brands/BRN0003
 
-```plaintext
-http://localhost:8080/api/brands/3
-Ejemplo de Cuerpo de Solicitud:
+**Ejemplo de Cuerpo de Solicitud:**
 
-json
-Copiar código
+```json
 {
-    "code": "BRN0003",
     "name": "Honda"
 }
 ```
 
-Posibles Mejoras Futuras
+### Posibles Mejoras Futuras
 Implementación de un sistema de notificaciones para alertar sobre niveles bajos de inventario.
 Integración con servicios externos para actualización automática de precios.
 Mejora de la interfaz de usuario para una mejor experiencia de usuario.
