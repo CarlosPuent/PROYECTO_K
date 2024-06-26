@@ -6,9 +6,9 @@ El Sistema Gestor de Inventario es una aplicación integral diseñada para gesti
 
 Para obtener más información detallada sobre el proyecto, puedes consultar nuestros documentos de proyecto:
 
-* [Documentación Técnica](DOCESQUEMAMOSVIMIENTOS.pdf)
-* [Documentación de Diseño](DOCESQUEMA1.pdf)
-* [Vídeo Resumen]([DOCESQUEMA1.pdf](https://www.youtube.com/watch?v=O-RILwe75vg))
+* [Documentación Esquema 1](DOCESQUEMA1.pdf)
+* [Documentación Esquema 2](DOCESQUEMAMOSVIMIENTOS.pdf)
+* [Vídeo Resumen](https://www.youtube.com/watch?v=O-RILwe75vg)
 
 ## Características
 Gestión de Productos, Categorías, Marcas y Modelos
