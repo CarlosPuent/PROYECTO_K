@@ -197,9 +197,10 @@ Se realizaron pruebas exhaustivas de cada endpoint utilizando Postman para verif
     "name": "Lubricantes"
 }
 ```
-**Actualizar una Marca:**
-**Endpoint:** PUT /api/brands/{codeBrand}
-**URL:** http://localhost:8080/api/brands/BRN0003
+#### Actualizar una Marca:
+
+**Endpoint:** `PUT /api/brands/{codeBrand}`
+**URL:** `http://localhost:8080/api/brands/BRN0003`
 
 **Ejemplo de Cuerpo de Solicitud:**
 
