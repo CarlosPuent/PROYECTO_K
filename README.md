@@ -2,6 +2,14 @@
 ## Descripción del Proyecto
 El Sistema Gestor de Inventario es una aplicación integral diseñada para gestionar productos, categorías, marcas y modelos en tiendas. Permite realizar compras a proveedores, recibir productos en tiendas y realizar ventas. El sistema está estructurado siguiendo las mejores prácticas y patrones de diseño, garantizando una implementación robusta y mantenible.
 
+### Saber más sobre el proyecto
+
+Para obtener más información detallada sobre el proyecto, puedes consultar nuestros documentos de proyecto:
+
+* [Documentación Técnica](DOCESQUEMAMOSVIMIENTOS.pdf)
+* [Documentación de Diseño](DOCESQUEMA1.pdf)
+* [Vídeo Resumen]([DOCESQUEMA1.pdf](https://www.youtube.com/watch?v=O-RILwe75vg))
+
 ## Características
 Gestión de Productos, Categorías, Marcas y Modelos
 Relaciones de muchos a muchos entre Productos y Categorías, Productos y Marcas
