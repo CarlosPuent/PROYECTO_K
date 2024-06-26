@@ -8,6 +8,7 @@ Para obtener más información detallada sobre el proyecto, puedes consultar nue
 
 * [Documentación Esquema 1](DOCESQUEMA1.pdf)
 * [Documentación Esquema 2](DOCESQUEMAMOSVIMIENTOS.pdf)
+* [Diagrama Entidad Relación Base De Datos](DiagramaER_proyectoKodigo.pdf)
 * [Vídeo Resumen](https://www.youtube.com/watch?v=O-RILwe75vg)
 
 ## Características
