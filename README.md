@@ -30,6 +30,8 @@ MapStruct
 Lombok
 Swagger
 Maven
+Spring Security
+Jwt 
 
 ## Comenzando
 
