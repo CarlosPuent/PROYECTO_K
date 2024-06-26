@@ -6,6 +6,7 @@ El Sistema Gestor de Inventario es una aplicación integral diseñada para gesti
 
 Para obtener más información detallada sobre el proyecto, puedes consultar nuestros documentos de proyecto:
 
+* [Pasos para ejecutar el proyecto](PASOS_PARA_HACER_FUNCIONAR_EL_SISTEMA.pdf)
 * [Documentación Esquema 1](DOCESQUEMA1.pdf)
 * [Documentación Esquema 2](DOCESQUEMAMOSVIMIENTOS.pdf)
 * [Diagrama Entidad Relación Base De Datos](DiagramaER_proyectoKodigo.pdf)
