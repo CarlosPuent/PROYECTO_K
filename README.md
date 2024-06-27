@@ -20,18 +20,26 @@ Manejo de errores con excepciones personalizadas y manejo global de excepciones
 Validación de datos usando Hibernate Validator
 Documentación Swagger para fácil prueba e interacción con la API
 
-## Tecnologías Utilizadas
-Java 21
-Spring Boot 3.3.0
-Spring Data JPA
-Hibernate
-MySQL
-MapStruct
-Lombok
-Swagger
-Maven
-Spring Security
-Jwt 
+## Technologies Used
+### Stack
+* **Language**: Java 21
+* **Frameworks**: 
+  + Spring Boot 3.3.0
+  + Spring Data JPA
+  + Spring Security
+* **ORM**: 
+  + Hibernate
+* **Database**: 
+  + MySQL
+* **Utilities**: 
+  + MapStruct
+  + Lombok
+* **API Documentation**: 
+  + Swagger
+* **Build Tool**: 
+  + Maven
+* **Authentication**: 
+  + Jwt
 
 ## Comenzando
 
