@@ -20,7 +20,7 @@ Manejo de errores con excepciones personalizadas y manejo global de excepciones
 Validación de datos usando Hibernate Validator
 Documentación Swagger para fácil prueba e interacción con la API
 
-## Technologies Used
+## Technologías Usadas
 ### Stack
 * **Language**: Java 21
 * **Frameworks**: 
@@ -41,7 +41,7 @@ Documentación Swagger para fácil prueba e interacción con la API
 * **Authentication**: 
   + Jwt
 
-## Comenzando
+## Marco
 
 ### Requisitos Previos
 JDK 21
