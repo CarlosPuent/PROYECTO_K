@@ -13,12 +13,21 @@ Para obtener más información detallada sobre el proyecto, puedes consultar nue
 * [Vídeo Resumen](https://www.youtube.com/watch?v=O-RILwe75vg)
 
 ## Características
-Gestión de Productos, Categorías, Marcas y Modelos
-Relaciones de muchos a muchos entre Productos y Categorías, Productos y Marcas
-API RESTful con endpoints detallados para cada operación
-Manejo de errores con excepciones personalizadas y manejo global de excepciones
-Validación de datos usando Hibernate Validator
-Documentación Swagger para fácil prueba e interacción con la API
+### Gestión de Productos, Categorías, Marcas y Modelos
+* Operaciones CRUD completas para productos, categorías, marcas y modelos
+* Relaciones de muchos a muchos entre productos y categorías, productos y marcas
+
+### API
+* API RESTful con endpoints detallados para cada operación
+
+### Manejo de Errores
+* Excepciones personalizadas y manejo global de excepciones
+
+### Validación de Datos
+* Validación de datos utilizando Hibernate Validator
+
+### Documentación
+* Documentación Swagger para fácil prueba e interacción con la API
 
 ## Technologías Usadas
 ### Stack
